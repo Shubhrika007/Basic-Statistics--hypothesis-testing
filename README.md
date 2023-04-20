@@ -1,2 +1,3 @@
 # Basic-Statistics--hypothesis-testing
-https://github.com/Shubhrika007/Basic-Statistics--hypothesis-testing/blob/main/Hypothesis%20Testing%20Case%20Study.pdf
+This case study was done as a part of AnalytixLabs DataScience360 course. All the material belong to AnalytixLabs.
+In this case study I have performed hypothesis testing on various data sets in python answers different business questions. 
